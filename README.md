@@ -23,3 +23,6 @@ The **Category Service** is a Spring Boot-based microservice responsible for man
 ```bash
 git clone https://github.com/praveenv2011/category-service.git
 cd category-service
+
+
+This project was solely developed and maintained by Praveen(https://github.com/praveenv2011).
